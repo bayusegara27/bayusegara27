@@ -5,23 +5,6 @@
 <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=3000&pause=150&color=3776AB&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=Hello+there!;I'm+a+developer+passionate+about+tech+%F0%9F%91%8B" width="70%" />
 <br><br>
 
-<style>
-  .glowing-text {
-    color: #8000FF;
-    text-shadow: 0 0 5px #8000FF, 0 0 10px #8000FF, 0 0 15px #8000FF, 0 0 20px #8000FF;
-    animation: glowing 1.5s infinite;
-  }
-
-  @keyframes glowing {
-    0% { text-shadow: 0 0 5px #8000FF, 0 0 10px #8000FF, 0 0 15px #8000FF, 0 0 20px #8000FF; }
-    50% { text-shadow: 0 0 10px #8000FF, 0 0 20px #8000FF, 0 0 30px #8000FF, 0 0 40px #8000FF; }
-    100% { text-shadow: 0 0 5px #8000FF, 0 0 10px #8000FF, 0 0 15px #8000FF, 0 0 20px #8000FF; }
-  }
-</style>
-
-<p class="glowing-text">Music • Games • Anime • Comic • Code</p>
-
-
 
 ### 🚀 Languages and Tools:
 [![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)](https://www.python.org)
