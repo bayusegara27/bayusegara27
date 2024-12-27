@@ -23,7 +23,7 @@
 <img src="https://github.com/bayusegara27/bayusegara27/blob/main/assets/siwot.gif?raw=true" width="15%" align="center"> 
 
 ---
-### 🌟 What I’m Working On:
+### 🌟 What I’m Learning On:
 - 🤖 Exploring **Machine Learning** and **Big Data Analytics**
 - 🌐 Building IoT systems with **Arduino**, **ESP32**, and cloud platforms
 - ☁️ Scalable solutions with **Azure**, **Alibaba Cloud**, and **Google Cloud**
