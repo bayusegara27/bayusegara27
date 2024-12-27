@@ -1,8 +1,7 @@
 <div align="center">
-<img src="https://github.com/bayusegara27/bayusegara27/blob/main/assets/silver-full.jpg?raw=true" width="15%" align="right" />
-<img src="https://github.com/bayusegara27/bayusegara27/blob/main/assets/silver-full.jpg?raw=true" width="15%" style="transform: scaleX(-1);" align=left />
-
-<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=3000&pause=150&color=3776AB&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=Hello+there!;I'm+a+developer+passionate+about+tech+%F0%9F%91%8B" width="60%" />
+<img src="https://github.com/bayusegara27/bayusegara27/blob/main/assets/silver-full.jpg?raw=true" width="19%" align="right" />
+  
+<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=3000&pause=150&color=3776AB&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=Hello+there!;I'm+a+developer+passionate+about+tech+%F0%9F%91%8B" width="70%" />
 <br><br>
 
 
