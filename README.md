@@ -34,4 +34,7 @@
 [![Website](https://img.shields.io/badge/website-0A66C2?style=flat)](https://nakumi.my.id)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/nakumuy)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.com/users/nakumi)
+
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/403187894182871040?theme=dark&bg=2d3059&animated=true&animatedDecoration=true&hideDiscrim=false&borderRadius=20px&idleMessage=Miaw...)](https://discord.com/users/403187894182871040)
 </div>
+
