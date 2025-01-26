@@ -6,17 +6,18 @@
 
 
 ### 🚀 Languages and Tools:
+
 [![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)](https://www.python.org)
 [![MicroPython](https://img.shields.io/badge/MicroPython-2C3E50?style=flat&logo=python&logoColor=white)](https://micropython.org)
+[![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)](https://www.arduino.cc)
 [![ESP32](https://img.shields.io/badge/ESP32-1C1E20?style=flat&logo=esphome&logoColor=white)](https://www.espressif.com/en/products/socs/esp32)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)](https://www.docker.com)
-[![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D7?style=flat&logo=microsoft-azure&logoColor=white)](https://azure.microsoft.com)
+[![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D7?style=flat&logo=microsoftazure&logoColor=white)](https://azure.microsoft.com)
 [![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)](https://cloud.google.com)
 [![Alibaba Cloud](https://img.shields.io/badge/Alibaba_Cloud-FF6A00?style=flat&logo=alibaba-cloud&logoColor=white)](https://www.alibabacloud.com)
 [![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=flat&logo=google-colab&logoColor=white)](https://colab.research.google.com)
-[![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat&logo=cisco&logoColor=white)](https://www.cisco.com)
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)](https://www.mysql.com)
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)](https://www.mongodb.com)
 
