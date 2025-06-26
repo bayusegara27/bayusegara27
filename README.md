@@ -1,8 +1,8 @@
 <div align="center">
 
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=600&size=30&duration=4000&pause=500&color=00FF7F&center=true&vCenter=true&width=435&lines=Bayu+Segara;Full-Stack+Developer;IoT+Enthusiast;Cloud+Explorer" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=600&size=30&duration=4000&pause=500&color=a28dfe&center=true&vCenter=true&width=435&lines=Bayu+Segara;Full-Stack+Developer;IoT+Enthusiast;Cloud+Explorer" alt="Typing SVG" /></a>
 
-<img src="https://64.media.tumblr.com/9a59aa43ec7d67ad80dd59519c040738/4f52ac1ca8970e8a-f6/s1280x1920/7140206d87de873c6d03194083243317b399d3bf.gifv" width="100%"/>
+<img src="https://64.media.tumblr.com/7ebfec602cba6217713c53cef9b7f7ad/7c318399bf42617d-8f/s540x810/4cb58f85d732c0e6cb90b2bc3e3cdac16ede8a95.gifv" width="100%"/>
 
 ### <samp>「 ABOUT ME 」</samp>
 
@@ -16,7 +16,7 @@
   </samp>
 </p>
 
-<img src="https://64.media.tumblr.com/9a59aa43ec7d67ad80dd59519c040738/4f52ac1ca8970e8a-f6/s1280x1920/7140206d87de873c6d03194083243317b399d3bf.gifv" width="100%"/>
+<img src="https://64.media.tumblr.com/abc57d76b221d66d36dd11c6e6f1aca5/7c318399bf42617d-63/s540x810/ba9322f1138e22f13ba4b93dafd69e7cfd934fce.gifv" width="100%"/>
 
 ### <samp>「 MY DIGITAL TOOLBOX 」</samp>
 
@@ -29,7 +29,7 @@
   <a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"></a>
 </p>
 
-<img src="https://64.media.tumblr.com/9a59aa43ec7d67ad80dd59519c040738/4f52ac1ca8970e8a-f6/s1280x1920/7140206d87de873c6d03194083243317b399d3bf.gifv" width="100%"/>
+<img src="https://64.media.tumblr.com/abc57d76b221d66d36dd11c6e6f1aca5/7c318399bf42617d-63/s540x810/ba9322f1138e22f13ba4b93dafd69e7cfd934fce.gifv" width="100%"/>
 
 ### <samp>「 CONNECT WITH ME 」</samp>
 
@@ -43,5 +43,5 @@
   <img src="https://lanyard-profile-readme.vercel.app/api/403187894182871040?theme=dark&bg=00000000&animated=true&hideDiscrim=true&borderRadius=10px" alt="Discord Presence" />
 </a>
 
-<img src="https://64.media.tumblr.com/9bff28f3bfa5ad3619516384a2c60a1f/4f52ac1ca8970e8a-ff/s1280x1920/316945f4d77e4ae90293f44154df2d6ae877cd42.gifv" width="100%"/>
+<img src="https://64.media.tumblr.com/7ebfec602cba6217713c53cef9b7f7ad/7c318399bf42617d-8f/s540x810/4cb58f85d732c0e6cb90b2bc3e3cdac16ede8a95.gifv" width="100%"/>
 </div>
