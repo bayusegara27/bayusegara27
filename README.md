@@ -1,41 +1,47 @@
 <div align="center">
-<img src="https://github.com/bayusegara27/bayusegara27/blob/main/assets/silver-full.jpg?raw=true" width="19%" align="right" />
-  
-<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=3000&pause=150&color=3776AB&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=Hello+there!;I'm+a+developer+passionate+about+tech+%F0%9F%91%8B" width="70%" />
-<br><br>
 
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=600&size=30&duration=4000&pause=500&color=00FF7F&center=true&vCenter=true&width=435&lines=Bayu+Segara;Full-Stack+Developer;IoT+Enthusiast;Cloud+Explorer" alt="Typing SVG" /></a>
 
-### 🚀 Languages and Tools:
+<img src="https://64.media.tumblr.com/9a59aa43ec7d67ad80dd59519c040738/4f52ac1ca8970e8a-f6/s1280x1920/7140206d87de873c6d03194083243317b399d3bf.gifv" width="100%"/>
 
-[![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)](https://www.python.org)
-[![MicroPython](https://img.shields.io/badge/MicroPython-2C3E50?style=flat&logo=python&logoColor=white)](https://micropython.org)
-[![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
-[![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)](https://www.arduino.cc)
-[![ESP32](https://img.shields.io/badge/ESP32-1C1E20?style=flat&logo=esphome&logoColor=white)](https://www.espressif.com/en/products/socs/esp32)
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)](https://www.docker.com)
-[![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D7?style=flat&logo=microsoftazure&logoColor=white)](https://azure.microsoft.com)
-[![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)](https://cloud.google.com)
-[![Alibaba Cloud](https://img.shields.io/badge/Alibaba_Cloud-FF6A00?style=flat&logo=alibaba-cloud&logoColor=white)](https://www.alibabacloud.com)
-[![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=flat&logo=google-colab&logoColor=white)](https://colab.research.google.com)
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)](https://www.mysql.com)
-[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)](https://www.mongodb.com)
+### <samp>「 ABOUT ME 」</samp>
 
-<img src="https://github.com/bayusegara27/bayusegara27/blob/main/assets/siwot.gif?raw=true" width="15%" align="center"> 
+<p align="center">
+  <samp>
+    「 <b>EXPLORE</b> 」•「 <b>BUILD</b> 」•「 <b>REFINE</b> 」
+    <br><br>
+    I enjoy turning ideas into reality through code.
+    <br>
+    Constantly learning and experimenting with IoT.
+  </samp>
+</p>
 
----
-### 🌟 What I’m Learning On:
-- 🤖 Exploring **Machine Learning** and **Big Data Analytics**
-- 🌐 Building IoT systems with **Arduino**, **ESP32**, and cloud platforms
-- ☁️ Developing scalable solutions with **Azure**, **Alibaba Cloud**, and **Google Cloud**
+<img src="https://64.media.tumblr.com/9a59aa43ec7d67ad80dd59519c040738/4f52ac1ca8970e8a-f6/s1280x1920/7140206d87de873c6d03194083243317b399d3bf.gifv" width="100%"/>
 
----
-<img src="https://github.com/bayusegara27/bayusegara27/blob/main/assets/siwot.gif?raw=true" width="15%" align="center"> 
+### <samp>「 MY DIGITAL TOOLBOX 」</samp>
 
-[![Website](https://img.shields.io/badge/website-0A66C2?style=flat)](https://nakumi.my.id)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/nakumuy)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.com/users/nakumi)
+<p align="center">
+  <a href="https://www.python.org"><img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"></a>
+  <a href="https://www.cplusplus.com/"><img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></a>
+  <a href="https://www.docker.com/"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"></a>
+  <a href="https://cloud.google.com/"><img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"></a>
+  <a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"></a>
+</p>
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/403187894182871040?theme=dark&bg=2d3059&animated=true&animatedDecoration=true&hideDiscrim=false&borderRadius=20px&idleMessage=Miaw...)](https://discord.com/users/403187894182871040)
+<img src="https://64.media.tumblr.com/9a59aa43ec7d67ad80dd59519c040738/4f52ac1ca8970e8a-f6/s1280x1920/7140206d87de873c6d03194083243317b399d3bf.gifv" width="100%"/>
+
+### <samp>「 CONNECT WITH ME 」</samp>
+
+<p align="center">
+<a href="https://nakumi.my.id"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="website"></a>
+<a href="https://instagram.com/nakumuy"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram"></a>
+<a href="https://discord.com/users/403187894182871040"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="discord"></a>
+</p>
+
+<a href="https://discord.com/users/403187894182871040">
+  <img src="https://lanyard-profile-readme.vercel.app/api/403187894182871040?theme=dark&bg=00000000&animated=true&hideDiscrim=true&borderRadius=10px" alt="Discord Presence" />
+</a>
+
+<img src="https://64.media.tumblr.com/9bff28f3bfa5ad3619516384a2c60a1f/4f52ac1ca8970e8a-ff/s1280x1920/316945f4d77e4ae90293f44154df2d6ae877cd42.gifv" width="100%"/>
 </div>
-
