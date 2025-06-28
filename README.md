@@ -40,7 +40,7 @@
 </p>
 
 <a href="https://discord.com/users/403187894182871040">
-  <img src="https://lanyard-profile-readme.vercel.app/api/403187894182871040?theme=dark&bg=00000000&animated=true&hideDiscrim=true&borderRadius=10px" alt="Discord Presence" />
+  <img src="https://lanyard.cnrad.dev/api/403187894182871040?theme=dark&bg=00000000&borderRadius=10px" alt="Discord Presence" />
 </a>
 
 <img src="https://64.media.tumblr.com/7ebfec602cba6217713c53cef9b7f7ad/7c318399bf42617d-8f/s540x810/4cb58f85d732c0e6cb90b2bc3e3cdac16ede8a95.gifv" width="100%"/>
