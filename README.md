@@ -1,6 +1,6 @@
 <div align="center">
 
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=600&size=30&duration=4000&pause=500&color=a28dfe&center=true&vCenter=true&width=435&lines=Bayu+Segara;Full-Stack+Developer;IoT+Enthusiast;Cloud+Explorer" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=600&size=30&duration=4000&pause=500&color=a28dfe&center=true&vCenter=true&width=435&lines=Bayu+Segara;IoT+Full-Stack+Developer;IoT+Enthusiast;Cloud+Explorer" alt="Typing SVG" /></a>
 
 <img src="https://64.media.tumblr.com/7ebfec602cba6217713c53cef9b7f7ad/7c318399bf42617d-8f/s540x810/4cb58f85d732c0e6cb90b2bc3e3cdac16ede8a95.gifv" width="100%"/>
 
